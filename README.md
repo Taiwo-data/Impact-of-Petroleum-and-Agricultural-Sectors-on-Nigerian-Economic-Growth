@@ -52,7 +52,7 @@ This project investigates the relationship between **Nigeria's petroleum sector,
 - **Both agricultural output and petroleum revenue significantly contribute to GDP.**
 - Agricultural output has a **stronger positive impact** on GDP than petroleum revenue.
 - Over-reliance on petroleum has caused **neglect of agriculture**, food import dependency, and structural economic imbalance.
-- Model has high explanatory power (**RÂ² = 0.994**) with reliable estimates.
+- Model has high explanatory power (**R² = 0.994**) with reliable estimates.
 
 ---
 
@@ -60,7 +60,7 @@ This project investigates the relationship between **Nigeria's petroleum sector,
 | Variable | Mean | Std. Deviation | N |
 |---|---|---|---|
 | RGDP (â‚¦ Million) â” Dependent (Y) | 10,301,041.75 | 14,454,142.308 | 35 |
-| AGRICULTURAL OUTPUT (â‚¦ Million) â” Independent (Xâ‚) | 3,406,834.63 | 4,971,271.758 | 35 |
+| AGRICULTURAL OUTPUT (â‚¦ Million) â” Independent (X‚) | 3,406,834.63 | 4,971,271.758 | 35 |
 | OIL REVENUE (â‚¦ Million) â” Independent (Xâ‚‚) | 2,171,391.78 | 2,751,293.692 | 35 |
 
 **Interpretation:** This table summarizes the central tendency and dispersion of GDP, agricultural output, and oil revenue. AGRIC and PETROL show high variability, indicating significant fluctuations over the study period.
