@@ -34,17 +34,17 @@ This project investigates the relationship between **Nigeria's petroleum sector,
 2. **Analysis:** Multiple linear regression using **Ordinary Least Squares (OLS)**.
 3. **Model Specification:**
    ```
-   GDP = Î±â‚ + Î±â‚(AGRIC) + Î±â‚‚(PETROL) + Î¼
+   GDP = Î±â‚+Î±â‚(AGRIC) + Î±â‚‚(PETROL) + Î¼
    ```
    - Î±â‚ = Intercept
-   - Î±â‚Î±â‚ = Regression coefficients
+   - Î±â Î±â‚ = Regression coefficients
    - Î¼ = Error term
 
 4. **Assumptions Checked:**
    - Errors have zero mean and are independent
    - Constant variance (homoscedasticity)
    - Normality of errors
-   - No autocorrelation (Durbinâ€“Watson test)
+   - No autocorrelation (Durbin Watson test)
 
 ---
 
@@ -59,9 +59,9 @@ This project investigates the relationship between **Nigeria's petroleum sector,
 ### Table 1: Descriptive Statistics
 | Variable | Mean | Std. Deviation | N |
 |---|---|---|---|
-| RGDP (â‚¦ Million) â” Dependent (Y) | 10,301,041.75 | 14,454,142.308 | 35 |
-| AGRICULTURAL OUTPUT (â‚¦ Million) â” Independent (X‚) | 3,406,834.63 | 4,971,271.758 | 35 |
-| OIL REVENUE (â‚¦ Million) â” Independent (Xâ‚‚) | 2,171,391.78 | 2,751,293.692 | 35 |
+| RGDP (Million) Dependent (Y) | 10,301,041.75 | 14,454,142.308 | 35 |
+| AGRICULTURAL OUTPUT (Million) Independent (X‚) | 3,406,834.63 | 4,971,271.758 | 35 |
+| OIL REVENUE (Million) Independent (X‚) | 2,171,391.78 | 2,751,293.692 | 35 |
 
 **Interpretation:** This table summarizes the central tendency and dispersion of GDP, agricultural output, and oil revenue. AGRIC and PETROL show high variability, indicating significant fluctuations over the study period.
 
